@@ -2,7 +2,7 @@
 
 Simple web project that is made for e-channeling.
 
-The aim of this project was to produce an information system that will provide a means of scheduling appointments with doctors at the Federal Teaching Hospital remotely, resulting in the reduction of waiting time at the hospital.The implemenmtation results of the system proved that the system could allow patients book doctor appointments with the hospital, allow nurses assign match patients with availabe doctors, allow doctor report medical data after every appointment and reschedule aapointment with patients if required. The study concluded that using online appointment booking systems would help overcome challenges that are faced in the manual approach and help boost output of the healthcare facilitators as well as improve customer experience.
+The aim of this project was to produce an information system that will provide a means of scheduling appointments with doctors at the Federal Teaching Hospital remotely, resulting in the reduction of waiting time at the hospital.The implemenmtation results of the system proved that the system could allow patients book doctor appointments with the hospital, allow doctor view bookings after every appointment and reschedule apointment with patients if required. The study concluded that using online appointment booking systems would help overcome challenges that are faced in the manual approach and help boost output of the healthcare facilitators as well as improve customer experience.
 
 1.Admin
 
